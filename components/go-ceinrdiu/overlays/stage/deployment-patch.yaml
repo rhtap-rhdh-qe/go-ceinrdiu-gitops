@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/rhtap-task-runner:latest
+      - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/go-ceinrdiu:457489958dcc3353870ee5a4e0a8f199d8dfc75f@sha256:1fc9afc864a4f1f2c98de626bbd73b8c52a295a208b31be606c9d8fcb2d4c319
         name: container-image  
